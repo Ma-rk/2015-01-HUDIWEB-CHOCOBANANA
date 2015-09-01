@@ -12,9 +12,9 @@
 
 ####메인 화면
 - Todo 영역 / 길드 검색
-![](http://i.imgur.com/72OnbwS.png)
+![](http://i.imgur.com/BZdwNRk.png)
 - Todo 칼럼 (Past/Today/Future)과 파티 아이콘
-![](http://i.imgur.com/2htYa94.png)
+![](http://i.imgur.com/hI5fFsZ.png)
 
 
 ####Todo 입력하기
@@ -22,7 +22,7 @@
 
 
 ####Todo 토글하기
-![](http://i.imgur.com/d28WgL1.png)
+![](http://i.imgur.com/S5jegUT.png)
 
 
 ####Todo 완료하기
